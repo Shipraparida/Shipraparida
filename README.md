@@ -36,9 +36,10 @@ I’m focused on **self-improvement**, constantly reflecting on my progress, and
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/shipra-parida3/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/shipra-parida3/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+
   &nbsp;&nbsp;
   <a href="mailto:shipra.yourmail@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
