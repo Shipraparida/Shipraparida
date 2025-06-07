@@ -33,11 +33,12 @@ I’m focused on **self-improvement**, constantly reflecting on my progress, and
 - 🤝 **Networking with professionals** in the tech industry by attending **meetups**,  and **conferences**, learning from experienced mentors and peers.
 - 📚 **Reading technical books** and **research papers** to stay aligned with academic insights.
 
+
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shipra-parida3/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/shipra-parida-12026a355/" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shipra.yourmail@gmail.com" target="_blank" rel="noreferrer">
